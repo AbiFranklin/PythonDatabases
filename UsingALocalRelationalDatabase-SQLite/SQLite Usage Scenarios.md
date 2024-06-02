@@ -1,0 +1,4 @@
+- SQLite does not use a server
+- Command line client thst opens a locally stored file
+- Use as embedded database
+- Use during prototyping and development
